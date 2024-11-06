@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+/*CABEÇALHO*/
+#cabeçalho{
+    display: flex;
+    gap: 300px;
+    border: 0.5px solid black;
+}
+h2{
+    margin-left: 200px;
+    font-size: 40px;
+}
+h2:hover{
+    color: rgb(82, 79, 79);
+}
+/*SOBRE MIN*/
+#sobre-min{
+    display: flex;
+    gap: 30%;
+    margin-top: 100px;
+}
+#foto{
+    width: 400px;
+    height: 400px;
+    border-radius: 50% 50% 50% 50%;
+    margin-left: 200px;
+}
+#texxto{
+    width: 400px;
+}
+h3{
+    text-align: justify;
+}
+/*TECNOLOGIAS*/
+#img-tec{
+   margin-top: 100px;
+}
+#html{
+    width: 200px;
+    height: 200px;
+    margin-left: 300px;
+} 
+#css{
+    width: 200px;
+    height: 200px;
+    margin-left: 350px;
+    
+}
+#js{
+    width: 400px;
+    height: 200px;
+    margin-left: 200px;
+    
+}
+
+
+/*PROJETOS*/
+#carrosel{
+    margin-left: 30%;
+    width: 750px;
+    margin-top: 80px;
+    
+}
+.imgs{
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+}
+/*RODAPÉ*/
+#rodapé{}
+
+/*LINHAS DE SEPARAÇÃO E OUTROS*/
+h4{
+    margin-left: 150px;
+    margin-top: 100px;
+}
+h1{
+
+    font-size: 50px;
+    text-align: center;
+}
